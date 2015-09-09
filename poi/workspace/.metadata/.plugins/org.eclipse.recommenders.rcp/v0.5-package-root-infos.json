@@ -1,0 +1,353 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be4124ecceb37230419f0f31ea6e7d50babb4973",
+    "jarFileModificationDate": "2013-12-18T19:14:59+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7acf42fb63998f98ca2451e42ca6c283b98a3aeb",
+    "jarFileModificationDate": "2013-12-18T20:57:10+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f5c224db6d8fb32e6c157d1ccb9e458d569d71aa",
+    "jarFileModificationDate": "2008-02-13T17:13:56.506+01:00",
+    "location": "D:\\secure\\Tools\\jdbc\\ojdbc6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "555a764ca9b50ecb2ae715a94042da668c53e123",
+    "jarFileModificationDate": "2013-12-18T20:21:13+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba04f20d9486f44bb2895885d8944ca7a4b91118",
+    "jarFileModificationDate": "2013-12-18T20:56:45+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1826204b0e05aef412b595321866f7d190e0498d",
+    "jarFileModificationDate": "2013-12-18T19:52:44+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e51ce82a095b4a23291b1cd35e6f1488efc5776",
+    "jarFileModificationDate": "2013-12-18T19:34:02+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-logging-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba24d5de831911b684c92cd289ed5ff826271824",
+    "jarFileModificationDate": "2014-01-16T08:42:50+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\lib\\commons-logging-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.11",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4e031bb61df09069aeb2bffb4019e7a5034a4ee0",
+    "jarFileModificationDate": "2014-01-16T08:42:52+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\lib\\junit-4.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2e4e9fee7de31ac2426dc34ae8c76d6ab62e30",
+    "jarFileModificationDate": "2013-12-18T19:57:04+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-ooxml-3.10-FINAL-20140208",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42b365f90a4bedbf95944a409c8a25d5952bc3af",
+    "jarFileModificationDate": "2014-02-01T18:00:50+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-ooxml-3.10-FINAL-20140208.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35b1ff32138d818bd730f5df657163f3b1fc3d4d",
+    "jarFileModificationDate": "2013-12-18T19:35:36+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "log4j-1.2.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b1b85d04eea979c33109ea42808b7d3f6d355ab",
+    "jarFileModificationDate": "2014-01-16T08:42:52+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\lib\\log4j-1.2.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "95dc9053062d68cde4e8c38494cc63aefd7b0a42",
+    "jarFileModificationDate": "2013-10-16T08:54:30.093+02:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca6baf9ad4c7f3fe2bdca3502cde1e43b6ea9a3a",
+    "jarFileModificationDate": "2013-12-18T20:01:53+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "xmlbeans-2.3.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8704dcf5c9f10265a08f5020b0fab70eb64ac3c4",
+    "jarFileModificationDate": "2014-01-16T08:43:02+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\ooxml-lib\\xmlbeans-2.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "447ba9a039506fc15af66978d30359c28b427e9f",
+    "jarFileModificationDate": "2013-12-18T20:56:44+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-scratchpad-3.10-FINAL-20140208",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "45024f0423d040c10b3e94413e852b92de82c687",
+    "jarFileModificationDate": "2014-02-01T18:00:50+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-scratchpad-3.10-FINAL-20140208.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60c339ebc91869355f261d7ff7d3c6b335aabb6",
+    "jarFileModificationDate": "2013-12-18T19:57:48+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\access-bridge-32.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-ooxml-schemas-3.10-FINAL-20140208",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "835fac8134ae4a02e00de8bda2dcc4b46d7aeec2",
+    "jarFileModificationDate": "2014-02-01T18:00:52+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-ooxml-schemas-3.10-FINAL-20140208.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "dom4j-1.6.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5d3ccc056b6f056dbf0dddfdf43894b9065a8f94",
+    "jarFileModificationDate": "2014-01-16T08:42:56+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\ooxml-lib\\dom4j-1.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b151e72980db486d2057e0e15fadd5133f574f3d",
+    "jarFileModificationDate": "2013-12-18T20:56:53+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ac952099f5d1ba16ac9ca3b1284b2b959c2e082",
+    "jarFileModificationDate": "2013-12-18T20:21:13+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-3.10-FINAL-20140208",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e22fd3bb6a7152bd7d07c7e8901c2451b601725f",
+    "jarFileModificationDate": "2014-02-01T18:00:48+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-3.10-FINAL-20140208.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cf993e250ff71804754ec2734a16f23c0be99f70",
+    "jarFileModificationDate": "2014-01-16T08:42:50+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\lib\\commons-codec-1.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "stax-api-1.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "49c100caf72d658aca8e58bd74a4ba90fa2b0d70",
+    "jarFileModificationDate": "2014-01-16T08:43:02+01:00",
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\ooxml-lib\\stax-api-1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-10-16T08:54:30.117+02:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-3.10-FINAL-20140208.jar": {
+    "location": "D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-3.10-FINAL-20140208.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027D:\\secure\\Tools\\Java\\poi\\poi-3.10-FINAL\\poi-3.10-FINAL-20140208.jar\u0027. Neither fingerprint \u0027e22fd3bb6a7152bd7d07c7e8901c2451b601725f\u0027 nor symbolic name \u0027poi-3.10-FINAL-20140208\u0027 are known."
+  },
+  "D:\\secure\\Tools\\Java\\poi\\workspace\\Issues\\src": {
+    "location": "D:\\secure\\Tools\\Java\\poi\\workspace\\Issues\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\secure\\Tools\\Java\\poi\\workspace\\Issues\\src\u0027. Skipped."
+  },
+  "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  }
+}

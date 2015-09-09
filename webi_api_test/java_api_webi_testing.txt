@@ -1,0 +1,21 @@
+
+ ISessionMgr sessionMgr = CrystalEnterprise.getSessionMgr();
+ IEnterpriseSession entSession = sessionMgr.logon(userID, password, CMS, auth);
+ if (entSession != null) {
+     ILogonTokenMgr loginTokenManager = entSession.getLogonTokenMgr();
+     String token = loginTokenManager.getDefaultToken();
+     ReportEngines repEngines = (ReportEngines)enterpriseSession.getService("ReportEngines");
+     ReportEngine wiRepEngine = repEngines.getService(ReportEngines.ReportEngineType.WI_REPORT_ENGINE);
+
+
+  String strDocId = request.getParameter("docId");
+  DocumentInstance wiDoc = null;
+  ReportEngine repEng = (ReportEngine) session.getAttribute("ReportEngine");
+  wiDoc = repEng.openDocument(Integer.parseInt(strDocId));
+  String storageToken = wiDoc.getStorageToken();
+  //Perform actions on the document to change document state.
+  ...
+  //Retrieve the document in its original, then save it.
+  DocumentInstance wiDocPreviousState =
+        repEng.getDocumentFromStorageToken(storageToken);
+        wiDocPreviousState.save();

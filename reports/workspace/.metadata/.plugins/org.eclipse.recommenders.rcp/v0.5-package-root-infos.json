@@ -1,0 +1,483 @@
+[
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4df82933396360211955b7414a43c5f72523a411",
+    "jarFileModificationDate": "2008-02-14T11:13:21.350+01:00",
+    "location": "D:\\secure\\Tools\\jdbc\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xpp3_min",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "231fc43c07bcafb1d5b844065de40e6916d8687f",
+    "jarFileModificationDate": "2010-04-22T05:07:10+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\xpp3_min.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be4124ecceb37230419f0f31ea6e7d50babb4973",
+    "jarFileModificationDate": "2013-12-18T19:14:59+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7acf42fb63998f98ca2451e42ca6c283b98a3aeb",
+    "jarFileModificationDate": "2013-12-18T20:57:10+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "logging",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "11cb9415ac27930f3d1063d6772b931aedf60ac2",
+    "jarFileModificationDate": "2011-04-20T06:07:32+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\logging.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "555a764ca9b50ecb2ae715a94042da668c53e123",
+    "jarFileModificationDate": "2013-12-18T20:21:13+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba04f20d9486f44bb2895885d8944ca7a4b91118",
+    "jarFileModificationDate": "2013-12-18T20:56:45+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "cesession",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d9b7ce9647b556b1119ee869601b88e999a1d9fd",
+    "jarFileModificationDate": "2011-04-20T06:09:18+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\cesession.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1826204b0e05aef412b595321866f7d190e0498d",
+    "jarFileModificationDate": "2013-12-18T19:52:44+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ebus405",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e36770acf3679f54fa6f3acadb5cbd31b6138267",
+    "jarFileModificationDate": "2011-04-20T06:06:10+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\ebus405.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "rebean.common",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2b48e2a2fe449d4cbf014be3d9358ff6dc380903",
+    "jarFileModificationDate": "2011-04-20T06:48:36+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\rebean.common.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e51ce82a095b4a23291b1cd35e6f1488efc5776",
+    "jarFileModificationDate": "2013-12-18T19:34:02+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "orai18n",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64374a32ebba96d9b21dcab4a55fb8470c5ae9d4",
+    "jarFileModificationDate": "2006-05-15T14:30:04+02:00",
+    "location": "D:\\secure\\Tools\\jdbc\\orai18n.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cecore",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "af7f160743572ff2edaac8295f259375242ae85d",
+    "jarFileModificationDate": "2011-04-20T06:09:10+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\cecore.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "rebean",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6c89a88abf9fe88c0feae7bf025b31c91349c6e",
+    "jarFileModificationDate": "2011-04-20T06:51:04+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\rebean.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2e4e9fee7de31ac2426dc34ae8c76d6ab62e30",
+    "jarFileModificationDate": "2013-12-18T19:57:04+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35b1ff32138d818bd730f5df657163f3b1fc3d4d",
+    "jarFileModificationDate": "2013-12-18T19:35:36+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "wilog",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b416d506b7fdd2ef38537eafde7e7ed224e8450a",
+    "jarFileModificationDate": "2010-04-22T06:16:28+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\wilog.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtools",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f07d2e89a8af25133d10f7d5c4cae7ae5078dfdc",
+    "jarFileModificationDate": "2011-04-20T06:18:02+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\jtools.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "95dc9053062d68cde4e8c38494cc63aefd7b0a42",
+    "jarFileModificationDate": "2013-10-16T08:54:30.093+02:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca6baf9ad4c7f3fe2bdca3502cde1e43b6ea9a3a",
+    "jarFileModificationDate": "2013-12-18T20:01:53+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "orai18n-mapping",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "71ecdaeda91e883b36f4288a6626d9b88a87ad07",
+    "jarFileModificationDate": "2006-02-22T19:33:52+01:00",
+    "location": "D:\\secure\\Tools\\jdbc\\orai18n-mapping.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "447ba9a039506fc15af66978d30359c28b427e9f",
+    "jarFileModificationDate": "2013-12-18T20:56:44+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60c339ebc91869355f261d7ff7d3c6b335aabb6",
+    "jarFileModificationDate": "2013-12-18T19:57:48+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\access-bridge-32.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b151e72980db486d2057e0e15fadd5133f574f3d",
+    "jarFileModificationDate": "2013-12-18T20:56:53+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "cesdk",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "33e77baaa1c35bfbc5a6895eedf1720aaea5474c",
+    "jarFileModificationDate": "2010-04-22T06:20:00+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\cesdk.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "orai18n-utility",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5f0cf0630bb3869a7bd1853b5da0f729b980f05c",
+    "jarFileModificationDate": "2006-02-22T19:33:52+01:00",
+    "location": "D:\\secure\\Tools\\jdbc\\orai18n-utility.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ac952099f5d1ba16ac9ca3b1284b2b959c2e082",
+    "jarFileModificationDate": "2013-12-18T20:21:13+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14dms",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "004240ab0ea8314a4c6fe8dcc479bf8ed6a3029b",
+    "jarFileModificationDate": "2006-05-15T14:30:04+02:00",
+    "location": "D:\\secure\\Tools\\jdbc\\ojdbc14dms.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ojdbc5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2117df6890b3eb79a702f50096d4d17c70495fba",
+    "jarFileModificationDate": "2008-02-13T17:14:34.290+01:00",
+    "location": "D:\\secure\\Tools\\jdbc\\ojdbc5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "corbaidl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dced91e5d0ce2e54b315ab709dd5394c3e9d0f4c",
+    "jarFileModificationDate": "2010-04-22T06:18:08+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\corbaidl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-10-16T08:54:30.117+02:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "xpp3_xpath",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "15bd236857f9384dfcb5d52a8df58139d667a224",
+    "jarFileModificationDate": "2010-04-22T05:07:10+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\xpp3_xpath.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xpp3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e57cc9c1ff3ec18524acdbd4f0f81529a7fd730c",
+    "jarFileModificationDate": "2010-04-22T05:07:10+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\xpp3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "celib",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4a9f3aed015d05062e06aa7e67ea92b60e8afc71",
+    "jarFileModificationDate": "2011-04-20T06:08:12+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\celib.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "boconfig",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e17f7718a3cd8459ee5856500bffd7ae651a5d10",
+    "jarFileModificationDate": "2010-04-22T06:16:30+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\boconfig.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "rebean.wi",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f02a0aa8634ad1a6a734d224a6ed0f43d5c4b184",
+    "jarFileModificationDate": "2011-04-20T06:51:10+02:00",
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\rebean.wi.jar",
+    "javaRuntime": false
+  }
+]

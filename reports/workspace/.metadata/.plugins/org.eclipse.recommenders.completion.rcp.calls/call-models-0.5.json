@@ -1,0 +1,17 @@
+{
+  "D:\\secure\\Tools\\Java\\reports\\workspace\\reports": {
+    "location": "D:\\secure\\Tools\\Java\\reports\\workspace\\reports",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\secure\\Tools\\Java\\reports\\workspace\\reports\u0027. Skipped."
+  },
+  "D:\\secure\\Tools\\Java\\reports\\lib\\rebean.jar": {
+    "location": "D:\\secure\\Tools\\Java\\reports\\lib\\rebean.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027D:\\secure\\Tools\\Java\\reports\\lib\\rebean.jar\u0027. Neither fingerprint \u0027f6c89a88abf9fe88c0feae7bf025b31c91349c6e\u0027 nor symbolic name \u0027rebean\u0027 are known."
+  },
+  "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/jdbc/orai18n.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/boconfig.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/cecore.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/celib.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/cesdk.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/cesession.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/corbaidl.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/ebus405.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/jtools.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/rebean.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/rebean.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/rebean.wi.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/wilog.jar"/>
+	<classpathentry kind="lib" path="D:/secure/Tools/jdbc/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/xpp3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/xpp3_min.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/secure/Tools/Java/reports/lib/xpp3_xpath.jar"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/secure/Tools/jdbc/orai18n-mapping.jar"/>
+	<classpathentry kind="lib" path="D:/secure/Tools/jdbc/orai18n-utility.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

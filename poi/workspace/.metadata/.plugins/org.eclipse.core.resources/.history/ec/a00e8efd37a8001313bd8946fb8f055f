@@ -1,0 +1,59 @@
+package autoOffice;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+
+import org.apache.poi.openxml4j.opc.OPCPackage;
+import org.apache.poi.ss.usermodel.*;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+
+public class IssueFile {
+
+	/**
+	 * @param args
+	 */
+	
+	private String IssueFile;
+	
+	public IssueFile (String FileName){
+		// do nothing now
+		IssueFile = FileName;
+	}
+	
+	public void readIssues () throws Exception{
+	    InputStream inp = new FileInputStream(IssueFile);
+
+	    //Workbook wb = new XSSFWorkbook(OPCPackage.open(IssueFile));
+	    Workbook wb = WorkbookFactory.create(inp);
+
+	    Sheet sheet = wb.getSheetAt(0);
+	    Row row = sheet.getRow(2);
+	    Cell cell = row.getCell(3);
+	    if (cell == null)
+	        cell = row.createCell(3);
+	    cell.setCellType(Cell.CELL_TYPE_STRING);
+	    cell.setCellValue("Das ist eine TEST Eintrage");
+
+	    // Write the output to a file
+	    FileOutputStream fileOut = new FileOutputStream(IssueFile);
+	    wb.write(fileOut);
+	    fileOut.close();
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		IssueFile myFile = new IssueFile("Y:/CTO/IT/BI/05Public/_PM/020 Issues & Risks/Demandrelated Issues & Logs/abcde.xlsx");
+		
+		System.out.println("Starting fileread");
+		try{
+			myFile.readIssues();
+		} catch (Exception e){
+			e.printStackTrace();
+		}
+		System.out.println("End fileread");
+
+	}
+
+}
